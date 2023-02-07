@@ -1,3 +1,7 @@
+document.getElementById("btn").addEventListener("click", function(){
+    location.reload();
+});
+
 let randomNumber1 = Math.round(Math.random()*5)+1;
 
 let randomDiceImg = "dice" + randomNumber1 + ".png";
