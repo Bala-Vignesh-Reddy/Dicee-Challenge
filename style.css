@@ -14,6 +14,14 @@ body {
     display: inline-block;
 }
 
+#btn {
+    height: 3rem;
+    width: 15rem;
+    color: #4ecca3;
+    background-color: #445469;
+    font-size: 1.2rem;
+}
+
 h1 {
     margin: 30px;
     font-family: 'Lobster', cursive;
